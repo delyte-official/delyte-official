@@ -53,4 +53,4 @@ Special Academic-related work:
 
 ---
 
-If you wish to **reach me**, you can contact me by **email**.
+If you need to **reach me**, you can do so via the **contact info** on my **profile**.
