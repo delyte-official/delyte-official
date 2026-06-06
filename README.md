@@ -35,6 +35,8 @@ An advanced custom game prototype producing a futuristic agent ability-based mul
 - Designed and implemented custom procedural map generation algorithms.  
 - 2 agents
 - Its own [matchmaker](https://github.com/Projet-Stellart/AtriaMatchMaker)
+- A dedicated [website](https://projet-stellart.github.io/website.github.io/)
+You can easily download the **INSTALLER** from the **website** and from the **release** section or build it yourself. Any necessary information is written within the repository's README including **how to run your own Atria server**.
 
 ##  🔹 [Vita (and Lumen)](https://github.com/delyte-official/vita)  
 A new programming language, still finding its final purpose, but bound to be flexible and low boiler-plate my every opinions, while retaining high performance.  
