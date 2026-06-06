@@ -20,6 +20,9 @@ Some (only few) projects done as LLM-assisted development (Copilot, Claude, etc)
 ---
 
 ## Featured Projects
+> **Note:** Some of my main projects are hosted under dedicated organizations. Feel free to check them out directly:
+> - [**Stellart (Archived)**](https://github.com/Projet-Stellart): Contains the full academic repositories and the original codebase for **Atria**.
+> - [**Stellart Games (Active)**](https://github.com/Project-Stellart): Our upcoming studio organization. It will host future titles and the complete **overhaul of Atria** in a modern engine.
 
 ### 🔹 [Crossword Puzzle OCR Application](https://github.com/delyte-official/S3_Project_OCR)
 A high-performance C & GTK3 windowed application built from scratch.  
@@ -40,7 +43,7 @@ The project will also include directly the Vita compiler 'Lumen' in Rust using l
 ---
 
 ##  Academic Projects  
-*Note: Source codes for these core academic projects are kept strictly private to comply with university anti-cheat policies.*
+> *Note: Source codes for these core academic projects are kept strictly private to comply with university anti-cheat policies.*
 
 - **42sh:** Co-developed a fully POSIX-compliant shell interpreter in C. Built and managed custom automated CI/CD validation pipelines for regression testing.  
 - **Custom Memory Allocator (Malloc):** Implemented an optimized heap memory allocator using `mmap`, focusing on split/coalesce strategies and memory efficiency.  
