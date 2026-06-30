@@ -42,15 +42,22 @@ You can easily download the **INSTALLER** from the **website** and from the **re
 A new programming language, still finding its final purpose, but bound to be flexible and low boiler-plate my every opinions, while retaining high performance.  
 The project will also include directly the Vita compiler 'Lumen' in Rust using llvm.  
 
+##  🔹 [Numworks Delirium](https://github.com/delyte-official/numworks-delirium)  
+A collection of games and scripts that I wrote in python for the Numworks calculator during high school, to play on it. These were built in a heavily constrained environment: limited RAM, slow CPU, tiny 320x222 pixel screen, few libraries (kandinsky, ion, turtle) and small disk space.  
+Includes a [chess replica](https://github.com/delyte-official/numworks-delirium/tree/main/chess), a [civilization replica](https://github.com/delyte-official/numworks-delirium/tree/main/civilization), a [co-op rage parkour game](https://github.com/delyte-official/numworks-delirium/tree/main/collab_rage), a [tanks replica](https://github.com/delyte-official/numworks-delirium/tree/main/tanks), an [agent-based fighter game](https://github.com/delyte-official/numworks-delirium/tree/main/strike), and a [2D valorant replica](https://github.com/delyte-official/numworks-delirium/tree/main/valorant).
+
 ---
 
 ##  Academic Projects  
 > *Note: Source codes for these core academic projects are kept strictly private to comply with university anti-cheat policies.*
 
-- **42sh:** Co-developed a fully POSIX-compliant shell interpreter in C. Built and managed custom automated CI/CD validation pipelines for regression testing.  
+- **Minimake:** A minimized version of the famous Make program, with recursive variable expansion, optimized recompiling, etc. 
 - **Custom Memory Allocator (Malloc):** Implemented an optimized heap memory allocator using `mmap`, focusing on split/coalesce strategies and memory efficiency.  
 - **Httpd:** Produced a daemon http server in C with manual parsing and full networking with websockets and C standard lib.
+- **42sh:** Co-developed a fully POSIX-compliant shell interpreter in C. Built and managed custom automated CI/CD validation pipelines for regression testing.  
 - **JWS (Java Web Services):** Built a minigame backend in Java with a strict architecture separation (Data, Services, Endpoints) using **Quarkus** and **Hibernate**.
+- **Tiger Compiler:** Completed the implementation of a compiler for the tiger language, excluding the backend segment.
+- **ERO1:** Scripted a complete algorithm to plow the snow off Montreal's streets in a day using efficient but optimal algorithms.
 
 Special Academic-related work:
 
