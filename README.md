@@ -58,6 +58,7 @@ Includes a [chess replica](https://github.com/delyte-official/numworks-delirium/
 - **JWS (Java Web Services):** Built a minigame backend in Java with a strict architecture separation (Data, Services, Endpoints) using **Quarkus** and **Hibernate**.
 - **Tiger Compiler:** Completed the implementation of a compiler for the tiger language, excluding the backend segment.
 - **ERO1:** Scripted a complete algorithm to plow the snow off Montreal's streets in a day using efficient but optimal algorithms.
+- **PING:** Designed and built a backend in Java using **Quarkus**, **Hibernate** and SQL in an architecture by layers, directly connected to a frontend written with the help of AI in Typescript to produce a Gamified Web IDE for learning programmation languages.
 
 Special Academic-related work:
 
